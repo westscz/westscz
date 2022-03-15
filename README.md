@@ -1,7 +1,8 @@
 ### Hi there 👋
 
 [![GitHub metrics](https://metrics.lecoq.io/westscz?base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&isocalendar=1)](https://github.com/lowlighter/metrics)
-[![Contribution Stats](https://github-contribution-stats.vercel.app/api/?username=westscz)](https://github.com/LordDashMe/github-contribution-stats/)
+
+I have also account on [Gitlab](https://gitlab.com/piszczala)
 
 <!--
 **westscz/westscz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
